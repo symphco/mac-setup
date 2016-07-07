@@ -1,7 +1,7 @@
 # System Preferences
 
 First thing you need to do, on any OS actually, is update the system! For that: **Apple Icon > Software Update.**
-Also upgrade your OS incase you want to work on the latest OS. Yosemite is a free upgrade so please check that.
+Also upgrade your OS incase you want to work on the latest OS. El Capitan is a free upgrade so please check that.
 
 If this is a new computer, there are a couple tweaks you would like to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
 
@@ -39,7 +39,7 @@ If this is a new computer, there are a couple tweaks you would like to make to t
 ### Accounts
 - Add an iCloud account and sync Calendar, Find my mac, Contacts etc.
 
-### Write to NTFS on OSX Yosemite and El Capitan
+### Write to NTFS on OSX El Capitan
 
 #### Install Homebrew and Homebrew Cask
 - Instructions [here](http://sourabhbajaj.com/mac-setup/Homebrew/README.html)!

@@ -8,4 +8,4 @@ For installing Xcode command line tools run the command
 
 It'll prompt you to install the command line tools. Follow the instructions and now you have Xcode and Xcode command line tools both installed and running. 
 
-Also install [XQuartz](http://xquartz.macosforge.org/landing/) for X11 server and client libraries for OS X Mountain Lion.
+Also install [XQuartz](http://xquartz.macosforge.org/landing/) for X11 server and client libraries for OS X El Capitan.

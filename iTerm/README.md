@@ -6,6 +6,12 @@ In **Finder**, drag and drop the **iTerm** Application file into the **Applicati
 
 You can now launch iTerm, through the **Launchpad** for instance.
 
+Or you can do it the pro way and do:
+
+    $ brew cask install iterm2
+
+And open it with Alfed (option+spacebar) then type in 'Alfred'
+
 Let's just quickly change some preferences.
 
 ### Colors and Font Settings
