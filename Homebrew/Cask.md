@@ -8,7 +8,11 @@ As of July 2016, cask comes installed with Homebrew directly.
 
     $ brew cask install google-chrome
 
-### App Installation
+### Searching for Apps
+
+    $ brew cask search app_name
+
+### Recommended Apps
 
 I'll now cover installation of the apps that I have mentioned in the apps section using cask.
 

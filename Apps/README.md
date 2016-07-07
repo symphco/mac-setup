@@ -4,8 +4,10 @@ Here is a quick list of apps that are generally good to use and can come in hand
 
 ### Developer Tools
 - [Google Chrome](https://www.google.com/intl/en/chrome/browser/): Installs Chrome which is one of the best browsers currently. All chrome browsers and extensions are saved by Google so can be synced easily.
-- [Valentina Studio](http://www.valentina-db.com/en/valentina-studio-overview):  Valentina Studio is a gui to create, administer and query MySQL, Postgres and SQLite databases.
+- [SublimeText](https://www.sublimetext.com/): Sublime Text is a sophisticated text editor for code, markup and prose.
+You'll love the slick user interface, extraordinary features and amazing performance.
 - [Atom](https://atom.io/): Open source editor by Github and is very similar to Sublime Text in most aspects.
+- [Quiver](http://happenapps.com/#quiver): Quiver is a notebook built for programmers. It lets you easily mix text, code, Markdown and LaTeX within one note, edit code with an awesome code editor, live preview Markdown and LaTeX, and find any note instantly via the full-text search.
 
 ### Productivity
 - [1Password](https://agilebits.com/onepassword): Cross platform password management tool.
@@ -13,18 +15,11 @@ Here is a quick list of apps that are generally good to use and can come in hand
 - [Alfred](http://www.alfredapp.com/): Replacement for spotlight. I'll mostly be upgrading to power pack.
 - [AppCleaner](http://www.freemacsoft.net/appcleaner/): Uninstall Apps.
 - [Caffeine](http://lightheadsw.com/caffeine/): Stops the machine from going into sleep mode.
-- [DoubleTwist](https://www.doubletwist.com/desktop/): Import your playlists, ratings, music and videos. Create new playlists to your heart's content. Rate your songs and videos. Play your music and videos and view all of your photos.
 - [Dropbox](https://www.dropbox.com/): File syncing to the cloud. It syncs files across all devices (laptop, mobile, tablet), and serves as a backup as well!
-- [F.lux](https://justgetflux.com/): f.lux makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
 - [Google Drive](https://drive.google.com/): File syncing to the cloud too! Google Docs is a popular too to collaborate with others.
-- [Notebooks](http://www.notebooksapp.com/mac/): Notebooks for Mac allows you to share files with the mobile versions of Notebooks on the iPad and iPhone. And you can write notes in markdown.
-- [PDF Toolkit+](https://itunes.apple.com/us/app/pdf-toolkit-+/id545164971?mt=12): App to cut/split/merge pdfs easily. Really easy to use and works well.
 - [Pocket](https://getpocket.com): Save For Later. Put articles, videos or pretty much anything into Pocket. Save directly from your browser or from apps like Twitter, Flipboard, Pulse and Zite.
-- [SleepPillow](https://itunes.apple.com/us/app/sleep-pillow/id597419160?mt=12): Sleep Pillow plays sounds that create an ambient atmosphere for sleep enhancement at home, or for drowning out noise at work.
 - [Spectacle](http://spectacleapp.com/): Don't waste time resizing and moving your windows. Spectacle makes this very easy and is open source.
 - [Timing](http://timingapp.com/): Keep track of the time you spend with your Mac.
-- [Tomighty](http://www.tomighty.org/): A free desktop timer for the Pomodoro Technique.
-- [Total Finder](http://totalfinder.binaryage.com/): Adds tabs and improves the Finder to a great deal.
 - [Transmission](http://www.transmissionbt.com/): A fast, easy and free BitTorrent client.
 - [Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html): Compress/Uncompress app. Supported file formats include Zip, Tar-GZip, Tar-BZip2, RAR, 7-zip, LhA, StuffIt and many other old and obscure formats.
 
