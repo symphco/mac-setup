@@ -8,6 +8,7 @@ Here is a quick list of apps that are generally good to use and can come in hand
 You'll love the slick user interface, extraordinary features and amazing performance.
 - [Atom](https://atom.io/): Open source editor by Github and is very similar to Sublime Text in most aspects.
 - [Quiver](http://happenapps.com/#quiver): Quiver is a notebook built for programmers. It lets you easily mix text, code, Markdown and LaTeX within one note, edit code with an awesome code editor, live preview Markdown and LaTeX, and find any note instantly via the full-text search.
+- [Limechat](limechat.net/mac/): An IRC client for Mac OS X. One window for multiple servers. Rich keyboard shortcuts. Fast and stable.
 
 ### Productivity
 - [1Password](https://agilebits.com/onepassword): Cross platform password management tool.
@@ -17,17 +18,15 @@ You'll love the slick user interface, extraordinary features and amazing perform
 - [Caffeine](http://lightheadsw.com/caffeine/): Stops the machine from going into sleep mode.
 - [Dropbox](https://www.dropbox.com/): File syncing to the cloud. It syncs files across all devices (laptop, mobile, tablet), and serves as a backup as well!
 - [Google Drive](https://drive.google.com/): File syncing to the cloud too! Google Docs is a popular too to collaborate with others.
+- [Franz](http://meetfranz.com/): The messenger app that you'll need.
 - [Pocket](https://getpocket.com): Save For Later. Put articles, videos or pretty much anything into Pocket. Save directly from your browser or from apps like Twitter, Flipboard, Pulse and Zite.
 - [Spectacle](http://spectacleapp.com/): Don't waste time resizing and moving your windows. Spectacle makes this very easy and is open source.
 - [Timing](http://timingapp.com/): Keep track of the time you spend with your Mac.
-- [Transmission](http://www.transmissionbt.com/): A fast, easy and free BitTorrent client.
 - [Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html): Compress/Uncompress app. Supported file formats include Zip, Tar-GZip, Tar-BZip2, RAR, 7-zip, LhA, StuffIt and many other old and obscure formats.
 
 ### Office Apps
 - [Keynote](http://www.apple.com/mac/keynote/): Create presentations on mac, this is supposed to be an alternate to PowerPoint.
 - [Microsoft Office](http://www.microsoft.com/mac/buy): Microsoft Office for Mac. Includes Microsoft Word, Excel, Powerpoint and Outlook.
-- [Numbers](http://www.apple.com/mac/numbers/): Create spreadsheets on mac, this is supposed to be an alternate to Excel.
-- [Pages](http://www.apple.com/mac/pages/): Create text files on mac, this is supposed to be an alternate to Word.
 
 ### Others
 - [Asepsis](http://asepsis.binaryage.com/): Get rid of the annoying DS_Store files. It stops them from being created anywhere on the system.
@@ -37,3 +36,4 @@ You'll love the slick user interface, extraordinary features and amazing perform
 - [VLC](http://www.videolan.org/vlc/index.html): VLC Media Player. Enough said.
 - [Voila](http://www.globaldelight.com/voila/): Record your screen with audio, mouse highlight and other features.
 - [TimeOut](http://www.dejal.com/timeout/): Scheduled work breaks to prevent stress injuries.
+- [Transmission](http://www.transmissionbt.com/): A fast, easy and free BitTorrent client.

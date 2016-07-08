@@ -20,4 +20,5 @@
 * [Apps](Apps/README.md)
     * [Octave](Apps/Octave.md)
     * [Settings](Apps/Settings.md)
+* [Design](Design/README.md)
 * [References](References/README.md)
