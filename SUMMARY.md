@@ -7,6 +7,7 @@
     * [Cask](Homebrew/Cask.md)
 * [iTerm2](iTerm/README.md)
     * [ZSH](iTerm/zsh.md)
+    * [theme](iTerm/theme.md)
 * [Git](Git/README.md)
     * [Git ignore](Git/gitignore.md)
 * [Sublime Text](SublimeText/README.md)
